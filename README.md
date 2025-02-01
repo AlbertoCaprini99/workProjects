@@ -7,9 +7,9 @@ nel settore HVAC, principalmente ricerca, progettazione e produzione di pompe di
 - Sviluppo, validazione ed implementazione di modelli termodinamici finalizzati anch'essi all'anomaly detection, sfruttanto Simscape.
  
 ## Cosa troverai in questa repository?
-In questa raccolta propongo un riassunto dei progetti a cui ho avuto modo di lavorare e sto tutt'ora implementando, nello specifico vado a trattare:
-- i risultati ottenuti nella rilevazione delle anomalie con i modelli basati interamente sui dati temporali.
-- i risultati ottenuti nella rilevazione delle anomalie con i modelli termodinamici.
+In questa raccolta propongo un riassunto dei progetti a cui ho avuto modo di lavorare e sto tutt'ora implementando, nello specifico troverai:
+- Cartella **dataDriven**: i risultati ottenuti nella rilevazione delle anomalie con i modelli basati interamente sui dati temporali.
+- Cartella **physicalBased**: i risultati ottenuti nella rilevazione delle anomalie con i modelli termodinamici.
 
 ## I miei contatti
 Per qualsiasi informazione non esitare a metterti in contatto con me!
